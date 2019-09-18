@@ -1,0 +1,15 @@
+html { 
+  font-size: 150%; /* font-size 1em = 10px on default browser settings */ 
+} 
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+input{
+	border-radius: 200px;
+}
